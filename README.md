@@ -18,40 +18,20 @@ Desenvolver habilidades com projetos práticos, desafios de códigos e mentorias
 
 
 ## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th></th>
-      <th>Etapas</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>-</td>
-      <td>GIT e  GITHUB</td>
-    </tr>
-    <tr>
-      <td>-</td>
-      <td>Funções e estrutura de dados com Python</td>
-    </tr>
-    <tr>
-      <td>-</td>
-      <td>Conceitos Orientação a Objetos (POO)</td>  
-    </tr>
-    <tr>
-      <td>-</td>
-      <td>SQL e NoSQL</td>    
-    </tr>
-    <tr>
-      <td>-</td>
-      <td>FastAPI e Docker</td>    
-    </tr>
-    <tr>
-      <td>-</td>
-      <td>IA</td>    
-    </tr>
-  </tbody>
-</table>
+
+
+🌱 GIT e  GITHUB
+
+🌱Funções e estrutura de dados com Python
+
+🌱Conceitos Orientação a Objetos (POO)
+
+🌱SQL e NoSQL
+
+🌱FastAPI e Docker 
+
+🌱 IA
+
 
 ---
 ## Desafio de Projeto da DIO
