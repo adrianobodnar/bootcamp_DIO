@@ -17,7 +17,7 @@ Desenvolver habilidades com projetos práticos, desafios de códigos e mentorias
 
 
 
-## Percurso
+## Habilidades
 
 
 🌱 GIT e  GITHUB
