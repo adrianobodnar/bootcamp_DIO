@@ -20,17 +20,17 @@ Desenvolver habilidades com projetos práticos, desafios de códigos e mentorias
 ## Habilidades
 
 
-🌱 GIT e  GITHUB
+🥇 GIT e  GITHUB
 
-🌱 Funções e estrutura de dados com Python
+🥇 Funções e estrutura de dados com Python
 
-🌱 Conceitos Orientação a Objetos (POO)
+🥇 Conceitos Orientação a Objetos (POO)
 
-🌱 SQL e NoSQL
+🥇 SQL e NoSQL
 
-🌱 FastAPI e Docker 
+🥇 FastAPI e Docker 
 
-🌱 IA
+🥇 IA
 
 
 ---
