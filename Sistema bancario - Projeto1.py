@@ -9,7 +9,7 @@ while True:
     print("2 Sacar")
     print("3 Extrato")
     print("4 Sair")
-    print("    ")
+    print("         ")
 
     
 
