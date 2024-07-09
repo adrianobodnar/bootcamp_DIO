@@ -2,3 +2,9 @@
 [submodule "workout_FastAPI_"]
 	path = workout_FastAPI_
 	url = https://github.com/adrianobodnar/bootcamp_DIO.git
+[submodule "FastAPI_workout"]
+	path = FastAPI_workout
+	url = https://github.com/adrianobodnar/bootcamp_DIO.git
+[submodule "workout_FastAPI"]
+	path = workout_FastAPI
+	url = https://github.com/adrianobodnar/bootcamp_DIO.git
