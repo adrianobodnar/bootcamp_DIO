@@ -1,3 +1,4 @@
-[submodule "workout_API"]
-	path = workout_API
+
+[submodule "workout_FastAPI_"]
+	path = workout_FastAPI_
 	url = https://github.com/adrianobodnar/bootcamp_DIO.git
